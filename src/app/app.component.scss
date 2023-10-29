@@ -1,0 +1,26 @@
+#primeirop {
+  background-color: aqua;
+}
+
+#segundop {
+  background-color: aqua;
+}
+
+.paragrafos {
+  margin: 10px;
+  padding: 50px;
+}
+
+.formatacaoImg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  background-color: beige;
+  margin: 50px;
+}
+
+.formatacaoImg img {
+  width: 100%;
+}
